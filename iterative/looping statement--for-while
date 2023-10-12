@@ -1,0 +1,11 @@
+# name = "harsha"
+# for var in name:
+#     print(var)
+
+age = int(input("Enter your age :"))
+while age <0:
+    print("age cant be negattive")
+    age = int(input("Enter your age :"))
+print(f"you are{age}year old")
+
+

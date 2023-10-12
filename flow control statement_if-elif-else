@@ -1,0 +1,40 @@
+# if statement
+# name = (input("Enter your name:"))
+# if name == "harsha":
+#     print('hello,harsha')
+# print("how r u")
+
+# else statement
+
+# name1 = (input("enter your name:"))
+# if name1 == "Harsha":
+#     print("hello harsha,Welcome!")
+# else:
+#     print("Hello,guest")
+
+
+
+# elif statement
+
+# brand = input("enter your brand name:")
+# if brand=="nike":
+#     print("its nice")
+# elif brand == "puma":
+#     print("its creazy")
+# elif brand == "addidas":
+#     print("its ok ok ")
+# else:
+#     print("no other brands are good")            
+
+
+
+#  practise
+
+# biggest for given 2 number 
+
+a = int(input("enter ur number:"))
+b = int(input("enter ur number:"))
+if a>b :
+    print("the greatest number is :",a)
+else :
+    print("the greatest number is :",b)    
